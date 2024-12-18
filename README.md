@@ -42,4 +42,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/VitorTeclak/VitorTeclak/output/snake.svg" alt="Snake animation" />
 
+###
