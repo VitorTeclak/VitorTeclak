@@ -12,7 +12,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-![luffygif](https://user-images.githubusercontent.com/96549606/178628325-3bdafc40-ff75-40aa-b96d-62e47d65baa4.gif)
+
 ###
 
 <div align="left">
