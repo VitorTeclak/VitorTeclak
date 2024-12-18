@@ -42,8 +42,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Teclakk/Teclakk/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
