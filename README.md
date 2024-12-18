@@ -32,9 +32,6 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://user-images.githubusercontent.com/96549606/178628325-3bdafc40-ff75-40aa-b96d-62e47d65baa4.gif"  />
-</div>
 
 ###
 
