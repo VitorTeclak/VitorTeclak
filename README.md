@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ola%2C+seja+bem+vindo+ao+meu+git;Hello+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ola%2C+seja+bem+vindo+ao+meu+GitHub;Hello+World)](https://git.io/typing-svg)
 <div align="left">
   <p> Linguagens BackEnd <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
