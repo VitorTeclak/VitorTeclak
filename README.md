@@ -1,4 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ola%2C+seja+bem+vindo+ao+meu+GitHub;Hello+World!)](https://git.io/typing-svg)
+<p>
+  <h1>SOBRE MIM</h1>
+  Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre em busca de aprendizado e aprimoramento no desenvolvimento de software. Possuo conhecimentos consolidados em Backend e Frontend e busco uma oportunidade para ingressar no mercado de trabalho e aplicar minhas habilidades na área. Meu objetivo é contribuir com soluções eficientes e inovadoras, ao mesmo tempo em que continuo evoluindo como profissional.
+
+
+  
+</p>
+
+
+
+
+
 <div align="left">
   <p> Linguagens BackEnd <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
