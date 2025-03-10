@@ -33,12 +33,7 @@
 </div>
 <p></p>
 
-<div align="left">
-  <p> IDE's <br>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-</p>
+
 
 <div align="left">
   <p> Banco De Dados <br>
@@ -49,6 +44,13 @@
 </div>
 
 ###
+</p>
+
+<div align="left">
+  <p> IDE's <br>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 </p>
 
 ###
