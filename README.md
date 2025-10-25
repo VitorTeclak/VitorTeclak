@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ola%2C+seja+bem+vindo+ao+meu+GitHub;Hello+World!)](https://git.io/typing-svg)
 <p>
   <h1>SOBRE MIM</h1>
-  Sou estudante de Análise e Desenvolvimento de Sistemas Na Universidade Santa Cruz. Estou sempre em busca de aprendizado e aprimoramento no desenvolvimento de software. Possuo conhecimentos consolidados em Backend e estou expandindo meus conhecimentos em Frontend, busco uma oportunidade para ingressar no mercado de trabalho e aplicar minhas habilidades na área. Meu objetivo é contribuir com soluções eficientes e inovadoras, ao mesmo tempo em que continuo evoluindo como profissional.
+  Sou estudante de Análise e Desenvolvimento de Sistemas Na Universidade Santa Cruz e Engenharia de Software pela Estacio. Estou sempre em busca de aprendizado e aprimoramento no desenvolvimento de software. Possuo conhecimentos consolidados em Backend e estou expandindo meus conhecimentos em Frontend, busco uma oportunidade para ingressar no mercado de trabalho e aplicar minhas habilidades na área. Meu objetivo é contribuir com soluções eficientes e inovadoras, ao mesmo tempo em que continuo evoluindo como profissional.
 
 
  
