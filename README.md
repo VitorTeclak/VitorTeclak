@@ -3,7 +3,7 @@
   <h1>SOBRE MIM</h1>
   <p>Desenvolvedor de Software Júnior com 1 ano de experiência profissional em desenvolvimento de software</p>
 
-<p>Estudando Análise e Desenvolvimento de Sistemas ( 5° Período) na Universidade Santa Cruz e Engenharia de Software na Estácio ( 2° Período)</p>
+<p>Formado em Análise e Desenvolvimento de Sistemas na Universidade Santa Cruz e e cursando Engenharia de Software na Estácio ( 3° Período)</p>
 
 <p>Busco aprimorar minhas habilidades no mercado de produção de software, combinando conhecimento técnico com visão estratégica.</p>
 
@@ -46,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   </p>
 </div>
 
